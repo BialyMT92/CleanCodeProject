@@ -1,0 +1,11 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Churn_hist present: SUCCESS
+root - INFO - Customer_Age_hist present: SUCCESS
+root - INFO - Martial_Status_normalize: SUCCESS
+root - INFO - Total_Trans_Ct_histplot present: SUCCESS
+root - INFO - HeatMap present: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS - All of the columns has correct type
+root - INFO - Testing perform_feature_engineering: SUCCESS - Data are splitted to test and train
+root - INFO - Both models present: SUCCESS
+root - INFO - Testing train_models: SUCCESS
